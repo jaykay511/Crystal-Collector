@@ -1,0 +1,71 @@
+body {
+    background-color: #adebeb;
+}
+
+div {
+    margin: 10px;
+}
+
+h1 {
+    color: white;
+    background-color: #d2a679;
+    width: 270px;
+    padding: 20px 10px;
+    margin-left: 10px;
+}
+
+#instructions {
+    color: green;
+    background-color: bisque;
+    width: 500px;
+    padding: 20px 10px;
+    line-height: 150%;
+    font-weight: bolder;
+}
+
+#goal-number {
+    background-color: green;
+    color: #4d004d;
+    width: 270px;
+    height: 80px;
+    float: left;
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+#stats {
+    float: left;
+    background-color: cyan;
+    width: 190px;
+    height: 100px;
+    padding: 0px 10px;
+    font-size: 18px;
+}
+
+.crystals {
+    clear: both;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin: 0px 5px;
+}
+
+#text1 {
+    background-color: lightseagreen;
+    color: white;
+    width: 270px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+#score {
+    background-color: lightseagreen;
+    color: white;
+    width: 270px;
+    height: 80px;
+    font-size: 50px;
+    padding: 10px;
+}
