@@ -1,3 +1,3 @@
-# unit-4-game
+# Crystals Collector Game
 
 https://jaykay511.github.io/Crystal-Collector/
